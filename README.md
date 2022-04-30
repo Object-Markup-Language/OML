@@ -1,4 +1,4 @@
-# Oml.Lang
+# OML
 This repository contains the OML specifications for each version, as well as other language-wide resources.
 
 ## Resources
